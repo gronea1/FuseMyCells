@@ -13,5 +13,5 @@ Final Code Elements Used:
 - Bilateral_z-stack_FINAL.ipynb
 - MedianFilter_FINAL.ipynb
 
-  Final Combined Elements Code (Used in Presentation):
-  - CombinedDenoisingMethods_FINAL.ipynb
+Final Combined Elements Code (Used in Presentation):
+- CombinedDenoisingMethods_FINAL.ipynb
